@@ -7,7 +7,7 @@
 
 ---
 
-# 👨‍💻 About Me
+### 👨‍💻 About Me
 
 * 🎓 AI / ML Student
 * 🧠 Currently learning **Machine Learning & Data Science**
@@ -17,7 +17,7 @@
 
 ---
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
 
@@ -33,7 +33,7 @@
 
 ---
 
-# 🧠 Languages and Tools
+### 🧠 Languages and Tools
 
 <p align="left">
 
@@ -48,7 +48,7 @@
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Debayan-swag&show_icons=true&theme=tokyonight"/>
@@ -56,7 +56,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Debayan-swag&theme=tokyonight"/>
@@ -64,7 +64,7 @@
 
 ---
 
-# 💻 Most Used Languages
+### 💻 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debayan-swag&layout=compact&theme=tokyonight"/>
@@ -72,7 +72,7 @@
 
 ---
 
-# 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debayan-swag&theme=tokyo-night"/>
@@ -81,7 +81,7 @@
 ---
 
 
-# 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
@@ -90,7 +90,7 @@
 ---
 
 
-# ⚡ Fun Fact
+### ⚡ Fun Fact
 
 ```python
 while(True):
