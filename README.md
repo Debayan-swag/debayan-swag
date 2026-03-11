@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Debayan</h1>
-<h3 align="center">AI / ML Student | Python Developer | Future ML Engineer</h3>
+<h1 align="center">Hi👋, I'm Debayan</h1>
+<h3 align="center">AI / ML Student | Python Developer | Future AI Engineer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+ML+Student;Python+Developer;Machine+Learning+Enthusiast;Future+AI+Engineer&center=true&width=500&height=45">
@@ -47,7 +47,6 @@
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
 
 </p>
 
