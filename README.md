@@ -80,13 +80,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Debayan-swag&theme=tokyonight"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -96,13 +89,6 @@
 
 ---
 
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Debayan-swag&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 # ⚡ Fun Fact
 
@@ -112,11 +98,5 @@ while(True):
     build_projects()
     become_AI_engineer()
 ```
-
----
-
-# ⭐ My GitHub
-
-🔗 https://github.com/Debayan-swag
 
 ---
