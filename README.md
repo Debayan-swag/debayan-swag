@@ -7,6 +7,8 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debayan-swag&layout=compact&theme=radical)
+
 ### 👨‍💻 About Me
 
 * 🎓 AI / ML Student
