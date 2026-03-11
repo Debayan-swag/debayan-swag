@@ -22,21 +22,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Debayan-swag">
-<img src="https://img.shields.io/badge/Github-black?logo=github">
-</a>
-
-<a href="https://github.com/Debayan-swag">
-<img src="https://img.shields.io/badge/Follow%20Me-Github-black?logo=github">
-</a>
-
-</p>
-
----
 
 ### 🧠 Languages and Tools
 
