@@ -7,7 +7,10 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debayan-swag&layout=compact&theme=radical)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-red)
 
 ### 👨‍💻 About Me
 
